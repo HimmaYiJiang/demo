@@ -1,0 +1,14 @@
+{
+    "name": "demo/demo",
+    "description": "demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HimmaYiJiang",
+            "email": "275324310@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
